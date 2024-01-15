@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (1:1.1+202202050852+0a00cf5339)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.53165938"
+     inkscape:cx="2380.2834"
+     inkscape:cy="319.7536"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="540.1073"
+       y="306.93873"
+       width="478.00165"
+       height="172.64825"
+       id="rect52552" />
+    <rect
+       x="165.11393"
+       y="364.16172"
+       width="321.97526"
+       height="152.12171"
+       id="rect5492" />
+    <rect
+       x="165.11394"
+       y="364.16171"
+       width="414.76565"
+       height="134.82276"
+       id="rect5492-3" />
+    <rect
+       x="540.1073"
+       y="306.93872"
+       width="478.00165"
+       height="172.64825"
+       id="rect52552-5" />
+    <rect
+       x="165.11394"
+       y="364.16171"
+       width="349.29658"
+       height="146.46888"
+       id="rect5492-3-6" />
+    <rect
+       x="540.1073"
+       y="306.93872"
+       width="478.00165"
+       height="172.64825"
+       id="rect52552-5-1" />
+    <rect
+       x="165.11394"
+       y="364.16171"
+       width="349.29657"
+       height="146.46889"
+       id="rect5492-3-6-6" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#2156ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path45364"
+       ry="22.219442"
+       rx="43.312691"
+       cy="106.19963"
+       cx="69.985054" />
+    <rect
+       style="fill:#0f9f20;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect846"
+       width="131.13638"
+       height="51.269718"
+       x="133.78619"
+       y="76.858025"
+       ry="5.5407114" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-9.581373,2.974028)"
+       id="text5490"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5492);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="165.11328"
+         y="399.55273"
+         id="tspan232433"><tspan
+           style="fill:#ffffff"
+           id="tspan232431">Solver.solve()</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text52550"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect52552);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="540.10742"
+         y="342.33008"
+         id="tspan232437"><tspan
+   style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan232435">plan</tspan>
+</tspan><tspan
+         x="540.10742"
+         y="392.33008"
+         id="tspan232439">(actions)
+</tspan></text>
+    <ellipse
+       style="fill:#2156ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path45364-6"
+       ry="22.219442"
+       rx="53.434414"
+       cy="109.16326"
+       cx="355.9938" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,262.93422,6.4459145)"
+       id="text5490-7"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5492-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="165.11328"
+         y="399.55273"
+         id="tspan232443"><tspan
+           style="fill:#ffffff"
+           id="tspan232441">Executor.execute()</tspan></tspan></text>
+    <ellipse
+       style="fill:#2156ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path45364-6-2"
+       ry="22.219442"
+       rx="53.434414"
+       cy="107.91128"
+       cx="623.27551" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,539.54211,1.7388696)"
+       id="text5490-7-9"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5492-3-6);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="165.11328"
+         y="399.55273"
+         id="tspan232447"><tspan
+           style="fill:#ffffff"
+           id="tspan232445">Executor.action2</tspan></tspan><tspan
+         x="165.11328"
+         y="449.55273"
+         id="tspan232451"><tspan
+           style="fill:#ffffff"
+           id="tspan232449">commands()</tspan></tspan></text>
+    <rect
+       style="fill:#0f9f20;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect846-3"
+       width="131.13638"
+       height="51.269718"
+       x="421.93054"
+       y="81.669083"
+       ry="5.5407114" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,288.14435,4.8110627)"
+       id="text52550-5"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect52552-5);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="540.10742"
+         y="342.33008"
+         id="tspan232455"><tspan
+   style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan232453">action</tspan>
+</tspan><tspan
+         x="540.10742"
+         y="392.33008"
+         id="tspan232457">(name, args) = action
+</tspan><tspan
+         x="540.10742"
+         y="442.33008"
+         id="tspan232461"><tspan
+   style="font-style:italic;-inkscape-font-specification:'sans-serif Italic'"
+   id="tspan232459">('pick', (a,b,p,g,_,c))</tspan>
+</tspan></text>
+    <rect
+       style="fill:#0f9f20;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect846-3-2"
+       width="131.13638"
+       height="51.269718"
+       x="689.2074"
+       y="83.235954"
+       ry="5.5407114" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,555.42122,6.3779361)"
+       id="text52550-5-7"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect52552-5-1);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="540.10742"
+         y="342.33008"
+         id="tspan232465"><tspan
+   style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan232463">commands</tspan>
+</tspan><tspan
+         x="540.10742"
+         y="392.33008"
+         id="tspan232467">(command)
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="733.89752"
+       y="97.894897"
+       id="text168745"><tspan
+         sodipodi:role="line"
+         id="tspan168743"
+         style="stroke-width:0.264583"
+         x="733.89752"
+         y="97.894897" /></text>
+    <ellipse
+       style="fill:#2156ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path45364-6-2-1"
+       ry="22.219442"
+       rx="53.434414"
+       cy="104.90639"
+       cx="892.14307" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,808.40967,-1.2660108)"
+       id="text5490-7-9-2"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;shape-inside:url(#rect5492-3-6-6)"><tspan
+         x="165.11328"
+         y="399.55273"
+         id="tspan232471"><tspan
+           style="fill:#ffffff"
+           id="tspan232469">Executor.apply_c</tspan></tspan><tspan
+         x="165.11328"
+         y="449.55273"
+         id="tspan232475"><tspan
+           style="fill:#ffffff"
+           id="tspan232473">ommands()</tspan></tspan></text>
+  </g>
+</svg>
