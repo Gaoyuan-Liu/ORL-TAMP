@@ -14,5 +14,12 @@ The method introduction and experiments:
    Dependencies:
    
    * [MoveIt](https://moveit.ros.org/) (ROS Noetic)
-   * Pytorch
    * [Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3/tree/master)
+
+## Run
+
+   Run the 'Rearrange' demo:
+
+   ```
+   ./run_demo_rearrange.sh
+   ```
