@@ -18,6 +18,8 @@ The method introduction and experiments:
 
 ## Run
 
+   Download the RL policy models: [Retrieve](https://drive.google.com/file/d/1UGd9uoGRnoQsUGBsJQmJ6i1QxkTuBz9B/view?usp=drive_link)
+
    Run the 'Rearrange' demo:
 
    ```
