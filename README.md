@@ -46,6 +46,8 @@ The method introduction and experiments:
       * EdgePush: `orl_tamp$ ./run_demo.sh edgepush`
       * Rearange: `orl_tamp$ ./run_demo.sh rearrange`
 
+<img src="pics/demo.png" height="100">  
+
 ## Train 
    
    This section we give general steps about how to train your own skills. 
