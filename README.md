@@ -46,7 +46,7 @@ The method introduction and experiments:
       * EdgePush: `orl_tamp$ ./run_demo.sh edgepush`
       * Rearange: `orl_tamp$ ./run_demo.sh rearrange`
 
-<img src="pics/demo.png" height="100">  
+   <img src="pics/demo.png" height="150">  
 
 ## Train 
    
