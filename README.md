@@ -1,8 +1,8 @@
 # ORL-TAMP
 
-Optimistic Reinforcement Learning Task and Motion Planning (ORL-TAMP) is a framework integrating an RL policy into TAMP pipelines. The general idea is to encapsulate an RL policy into a so-called 'skill.' This skill comprises an RL policy, a state discriminator, and a sub-goal generator. Besides steering the action, the RL policy, state discriminator, and sub-goal generator are used to verify symbolic predicates and ground geometric values.
+Optimistic Reinforcement Learning Task and Motion Planning (ORL-TAMP) is a framework integrating an RL policy into TAMP pipelines. The general idea is to encapsulate an RL policy into a so-called _skill_. A skill comprises an RL policy, a state discriminator, and a sub-goal generator. Besides steering the action, the RL policy, state discriminator, and sub-goal generator are used to verify symbolic predicates and ground geometric values.
 
-<img src="pics/structure.png" height="200">
+<img src="pics/structure.png" height="250">
 <!-- <img src="images/continuous_tamp.png" height="100">&emsp;<img src="images/motion.png" height="100"> -->
 
 ## Video
@@ -14,30 +14,30 @@ The method introduction and experiments:
    
    The current version is tested on Ubuntu 20.04
    
-   Dependencies:
+   1. Dependencies:
    
-   * [MoveIt](https://moveit.ros.org/) (ROS Noetic)
+      * [MoveIt](https://moveit.ros.org/) (ROS Noetic)
 
-   * [Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3/tree/master)
+      * [Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3/tree/master)
 
-   We are currently trying to remove the dependency of MoveIt due to its inflexibility and ROS specificity.
+      We are currently trying to remove the dependency of MoveIt due to its inflexibility and ROS specificity.
 
-   Build PDDL solver:
-   ```
-   orl_tamp$ ./downward/build.py
-   ```
+   2. Build PDDL solver:
+      ```
+      orl_tamp$ ./downward/build.py
+      ```
 
-   Compile IK solver:
-   ```
-   orl_tamp$ cd utils/pybullet_tools/ikfast/franka_panda/
-   franka_panda$ python setup.py
-   ```
+   3. Compile IK solver:
+      ```
+      orl_tamp$ cd utils/pybullet_tools/ikfast/franka_panda/
+      franka_panda$ python setup.py
+      ```
 
 
 
 ## Run
    
-   1. Download the RL policy models: [Retrieve](https://drive.google.com/file/d/1UGd9uoGRnoQsUGBsJQmJ6i1QxkTuBz9B/view?usp=drive_link) and [EdgePush](https://drive.google.com/file/d/1tdIOrf1GFvP4PCmKRepSF5rJe3CE-rUU/view?usp=drive_link), and save policies in the 'policies' folder. 
+   1. Download the RL policy models: [Retrieve](https://drive.google.com/file/d/1UGd9uoGRnoQsUGBsJQmJ6i1QxkTuBz9B/view?usp=drive_link) and [EdgePush](https://drive.google.com/file/d/1tdIOrf1GFvP4PCmKRepSF5rJe3CE-rUU/view?usp=drive_link), and save policies in the `policies` folder. 
 
    2. Run MoveIt (following the [tutorial](https://ros-planning.github.io/moveit_tutorials/))
 
@@ -48,6 +48,9 @@ The method introduction and experiments:
 
 ## Train 
    
-   This section we give instructions about how to train your own skills. 
+   This section we give general steps about how to train your own skills. 
 
-   We recomand using [StableBaselines3](https://stable-baselines3.readthedocs.io/en/master/) to standardized the policy trainning. 
+   1. Use [StableBaselines3](https://stable-baselines3.readthedocs.io/en/master/) to standardized the policy trainning. 
+   2. Generate dataset in the domain scenario. 
+   3. Modify the PDDL domain file and and stream file.
+   4. Train the state discriminator.
