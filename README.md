@@ -49,8 +49,7 @@ The method introduction and experiments:
 ## Train 
    
    This section we give general steps about how to train your own skills. 
-
-   1. Use [StableBaselines3](https://stable-baselines3.readthedocs.io/en/master/) to standardized the policy trainning. 
-   2. Generate dataset in the domain scenario. 
-   3. Modify the PDDL domain file and and stream file.
+   1. Modify the PDDL domain file and and stream file, add the PDDL definations of the skills.
+   2. Use [StableBaselines3](https://stable-baselines3.readthedocs.io/en/master/) to standardized the policy trainning. 
+   3. Generate dataset in the domain scenario.  
    4. Train the state discriminator.
