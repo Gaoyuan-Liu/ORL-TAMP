@@ -2,7 +2,7 @@
 
 Optimistic Rienforcement Learning Task and Motion Planning (ORL-TAMP) is a framework intergrating RL policy into the TAMP pipelines.   
 
-<img src="pics/structure.png" height="100">
+<img src="pics/structure.png" height="200">
 <!-- <img src="images/continuous_tamp.png" height="100">&emsp;<img src="images/motion.png" height="100"> -->
 
 ## Video
