@@ -1,6 +1,6 @@
 # ORL-TAMP
 
-Optimistic Rienforcement Learning Task and Motion Planning (ORL-TAMP) is a framework intergrating RL policy into the TAMP pipelines.   
+Optimistic Reinforcement Learning Task and Motion Planning (ORL-TAMP) is a framework integrating an RL policy into TAMP pipelines. The general idea is to encapsulate an RL policy into a so-called 'skill.' This skill comprises an RL policy, a state discriminator, and a sub-goal generator. Besides steering the action, the RL policy, state discriminator, and sub-goal generator are used to verify symbolic predicates and ground geometric values.
 
 <img src="pics/structure.png" height="200">
 <!-- <img src="images/continuous_tamp.png" height="100">&emsp;<img src="images/motion.png" height="100"> -->
