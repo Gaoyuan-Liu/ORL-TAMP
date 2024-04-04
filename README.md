@@ -37,7 +37,7 @@ The method introduction and experiments:
 
 ## Run
    
-   1. Download the RL policy models: [Retrieve](https://drive.google.com/file/d/1UGd9uoGRnoQsUGBsJQmJ6i1QxkTuBz9B/view?usp=drive_link) and [EdgePush](https://drive.google.com/file/d/1tdIOrf1GFvP4PCmKRepSF5rJe3CE-rUU/view?usp=drive_link), and save policies in the `policies` folder. 
+   1. Download the RL policy models: [Retrieve](https://drive.google.com/file/d/1UGd9uoGRnoQsUGBsJQmJ6i1QxkTuBz9B/view?usp=drive_link) and [EdgePush](https://drive.google.com/file/d/1tdIOrf1GFvP4PCmKRepSF5rJe3CE-rUU/view?usp=drive_link), and save policies in the `/orl_tamp/policies` folder. 
 
    2. Run MoveIt (following the [tutorial](https://ros-planning.github.io/moveit_tutorials/))
 
