@@ -8,7 +8,7 @@ Optimistic Reinforcement Learning Task and Motion Planning (ORL-TAMP) is a frame
 ## Video
 The method introduction and experiments:
 
-[![Watch the video](https://github.com/Gaoyuan-Liu/ORL-TAMP/tree/main/pics/youtube.png)](https://youtu.be/mlLTIFM01ig)
+[![Watch the video](https://github.com/Gaoyuan-Liu/ORL-TAMP/blob/main/pics/youtube.png)](https://youtu.be/mlLTIFM01ig)
 
 ## Installation 
    
