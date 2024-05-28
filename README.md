@@ -8,7 +8,7 @@ Optimistic Reinforcement Learning Task and Motion Planning (ORL-TAMP) is a frame
 ## Video
 The method introduction and experiments:
 
-[![Watch the video](https://github.com/Gaoyuan-Liu/Non-prehensile-Augmented-TAMP/blob/main/pics/youtube.png)](https://youtu.be/mlLTIFM01ig)
+[![Watch the video](https://github.com/Gaoyuan-Liu/ORL-TAMP/tree/main/pics/youtube.png)](https://youtu.be/mlLTIFM01ig)
 
 ## Installation 
    
@@ -22,7 +22,7 @@ The method introduction and experiments:
 
       We are currently trying to remove the dependency of MoveIt due to its inflexibility and ROS specificity.
 
-   2. Build PDDL solver:
+   2. Build PDDL FastDownward solver:
       ```
       orl_tamp$ ./downward/build.py
       ```
@@ -50,7 +50,7 @@ The method introduction and experiments:
 
 ## Train 
    
-   This section we give general steps about how to train your own skills. 
+   This section we give general steps about to train your own skills. 
    1. Modify the PDDL domain file and and stream file, add the PDDL definations of the skills.
    2. Use [StableBaselines3](https://stable-baselines3.readthedocs.io/en/master/) to standardized the policy trainning. 
    3. Generate dataset in the domain scenario.  
